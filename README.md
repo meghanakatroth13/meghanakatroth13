@@ -16,9 +16,7 @@
 ###
 - 🔭 I’m currently working on **AI/ML Projects**
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+
 - 👯 I’m looking to collaborate on **SD projects**
 
 ###
